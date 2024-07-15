@@ -132,7 +132,8 @@ Let's create, fine-tune, train, and evaluate a Feed Forward Neural Network (FFNN
 
 ![image](https://github.com/user-attachments/assets/0a0d6d91-f96f-4588-8140-df3172c10529)
 
-![image](https://github.com/user-attachments/assets/6762adc6-96d6-4099-adb2-998e1387a827)
+![image](https://github.com/user-attachments/assets/d86ad9fc-03c2-4c0d-95df-1f9c3bc33bf4)
+
 
 ## __Decision Based on Performance Analysis__
 Based on the performance analysis, the FFNN Model 3 with Fine-Tune Scenario #2 is the best approach. It achieved the highest ROC-AUC score of 0.9241, indicating superior performance in predicting customer subscriptions. This model's fine-tuning with exponential decay learning rate proved to be the most effective strategy for this dataset and business problem.
