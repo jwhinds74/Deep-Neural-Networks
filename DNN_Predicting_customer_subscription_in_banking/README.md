@@ -1,6 +1,7 @@
 # __PREDICTING CUSTOMER SUBSCRIPTION IN BANKING: <span style="color: blue;">A NEURAL NETWORK APPROACHES.</span>__
 
-![Image of Banking Transaction 1](https://github.com/jwhinds74/supervised_machine_learning/assets/15615882/9800577a-1011-490e-81a0-7d0b4489f540)
+![NeuralNeetwork Image Portfolio 2](https://github.com/user-attachments/assets/014ec963-1537-48e3-b149-d432f4a8c5d5)
+
 
 ## __Below, you will find a walkthrough of the main modules from the notebook, highlighting the most relevant steps in this data science project. These steps enabled us to model the probability of customers contracting new financial services using Multi-Layer Perceptron and Feed-Fordward Neural Network approaches.__
 
