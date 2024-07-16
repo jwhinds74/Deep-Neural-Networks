@@ -4,8 +4,8 @@
 
 ## __Below, you will find a walkthrough of the main modules from the notebook, highlighting the most relevant steps in this data science project. These steps enabled us to model the probability of customers contracting new financial services using Multi-Layer Perceptron and Feed-Fordward Neural Network approaches.__
 
-## __Importance of This Analysis__
-**Predicting customer subscriptions in banking using neural networks can significantly enhance marketing strategies. By accurately identifying the likelihood of customers subscribing to new financial products, financial institutions can tailor their campaigns more effectively, improving engagement and conversion rates. This analysis can lead to better resource allocation, personalized marketing, and increased customer satisfaction, ultimately driving higher revenue and profitability.**
+## __Why This Analysis is Important
+Predicting customer subscriptions in banking using neural networks can significantly enhance marketing strategies. By accurately identifying the likelihood of customers subscribing to new financial products, financial institutions can tailor their campaigns more effectively, improving engagement and conversion rates. This analysis can lead to better resource allocation, personalized marketing, and increased customer satisfaction, ultimately driving higher revenue and profitability.__
 
 #  __MAIN GOAL__
 __The proposed project of modeling under Deep Learning approaches has been aimed at leveraging informed decision-making in the marketing areas of financial institutions. Therefore, the main objective seeks to predict the probability that institution's customers will contract new financial products and services during campaign events, thereby understanding how effective these campaigns have been..__
