@@ -1,4 +1,4 @@
-# __PREDICTING CUSTOMER SUBSCRIPTION IN BANKING: <span style="color: blue;">A NEURAL NETWORK APPROACHES.</span>__
+# __PREDICTING CUSTOMER SUBSCRIPTION IN BANKING: <span style="color: blue;">A NEURAL NETWORK APPROACH.</span>__
 
 ![NeuralNeetwork Image Portfolio 2](https://github.com/user-attachments/assets/44db1e15-bce3-43f9-bdde-b75e38b51e0e)
 
