@@ -2,7 +2,7 @@
 
 ![Image of Banking Transaction 1](https://github.com/jwhinds74/supervised_machine_learning/assets/15615882/9800577a-1011-490e-81a0-7d0b4489f540)
 
-## __Below, you will find a walkthrough of the main modules from the notebook, highlighting the most relevant steps in this data science project. These steps enabled us to model the probability of customers contracting new financial services using a logistic regression model.__
+## __Below, you will find a walkthrough of the main modules from the notebook, highlighting the most relevant steps in this data science project. These steps enabled us to model the probability of customers contracting new financial services using Multi-Layer Perceptron and Feed-Fordward Neural Network approaches.__
 
 #  __MAIN GOAL__
 __The proposed project of modeling under Deep Learning approaches has been aimed at leveraging informed decision-making in the marketing areas of financial institutions. Therefore, the main objective seeks to predict the probability that institution's customers will contract new financial products and services during campaign events, thereby understanding how effective these campaigns have been..__
